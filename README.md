@@ -1,4 +1,4 @@
-# simon-says-hackclub-stasis
+# Simon Says Game
 My version of the Pathfinder for Hack Club Stasis
 A PCB with 4 buttons and 4 LEDS.    
 After holding one of the buttons for 3 seconds you can initiate a simon says game   <br/>
